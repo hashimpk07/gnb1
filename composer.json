@@ -1,0 +1,14 @@
+{
+    "name": "pc/gnb",
+    "autoload": {
+        "psr-4": {
+            "Pc\\Gnb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HASHIM PK"
+        }
+    ],
+    "require": {}
+}
